@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\api</_PublishTargetUrl>
+    <History>True|2023-09-10T08:18:29.3573756Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>workstation id=FootureApi.mssql.somee.com%3bpacket size=4096%3buser id=phuchieu%3bpwd=sqlP%40ssw0rd%3bdata source=FootureApi.mssql.somee.com%3bpersist security info=False%3binitial catalog=FootureApi</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="apiforapp.Models.ApplicationDbcontext">
+      <Value>workstation id=FootureApi.mssql.somee.com%3bpacket size=4096%3buser id=phuchieu%3bpwd=sqlP%40ssw0rd%3bdata source=FootureApi.mssql.somee.com%3bpersist security info=False%3binitial catalog=FootureApi</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

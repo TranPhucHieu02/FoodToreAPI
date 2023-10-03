@@ -1,0 +1,29 @@
+[
+  {
+    "intercept": 24.736715,
+    "Age": 0.373522,
+    "Gender": 1.802429,
+    "Taste": 0.410097,
+    "Color main": -0.651823,
+    "Activity Sensitive": 1.901108,
+    "Emotion": 0.384000
+  },
+  {
+    "intercept": 67.652794,
+    "Age": 0.671936,
+    "Gender": 0.635252,
+    "Taste": -0.119838,
+    "Color main": -1.662174,
+    "Activity Sensitive": 1.033630,
+    "Emotion": 1.572362
+  },
+  {
+    "intercept": 19.071806,
+    "Age": -0.584223,
+    "Gender": 0.583850,
+    "Taste": -0.267218,
+    "Color main": 1.688638,
+    "Activity Sensitive": 0.186617,
+    "Emotion": 0.365284
+  }
+]

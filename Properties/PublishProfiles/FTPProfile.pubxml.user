@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnNqzMaSqEkODLcILBw1+JwAAAAACAAAAAAAQZgAAAAEAACAAAADApehyJy9Wb+oyqKO1X+7g/6m/M/aiU1dBvc62R1R3qAAAAAAOgAAAAAIAACAAAACZemaAWCYKg3Mv+Mivwp6tLmPmqL7n3/d2yl1O6GRsfCAAAAAFcfgcVbivOq+1s7HFpPnLMUTNCqJdAtiLsUIcnOdhTUAAAAAO0cLPJXqTmRq4VgAArbylxarDggK6fZ7/zPVE6YOXGHd+Jp0vz/9vi9C6I8tyhdpTAZzqRMxbeW7EQhf6XdnW</EncryptedPassword>
+    <_PublishTargetUrl>ftp://FoodTureApiconnect.somee.com/FoodTureApiconnect.somee.com</_PublishTargetUrl>
+    <History>False|2023-09-06T17:20:10.0031985Z;False|2023-09-07T00:18:55.4807937+07:00;False|2023-09-07T00:05:49.9209084+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\apiforapp.exe
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\apiforapp.dll
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\apiforapp.runtimeconfig.json
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\apiforapp.pdb
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\source\repos\apiforapp\obj\Release\net6.0\PubTmp\Out\apiforapp.deps.json

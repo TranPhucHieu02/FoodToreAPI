@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Display JSON in HTML</title>
+</head>
+<body>
+    <h1>JSON Data:</h1>
+    <pre id="json-display"></pre>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: '/get-Nutribution-json', // Replace with the correct URL
+                method: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    // Convert the JSON data to a string with proper indentation
+                    const jsonStr = JSON.stringify(data, null, 4);
+
+                    // Display the JSON data in the <pre> element
+                    $('#json-display').text(jsonStr);
+                },
+                error: function (error) {
+                    console.error("Error fetching JSON data:", error);
+                }
+            });
+        });
+    </script>
+</body>
+</html>
